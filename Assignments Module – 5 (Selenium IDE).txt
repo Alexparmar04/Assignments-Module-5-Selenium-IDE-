@@ -1,0 +1,41 @@
+	What is Automation Testing?
+->	Automation testing is the use of specialized tools and scripts to automatically execute test cases for software applications. It 	improves efficiency, repeatability, and accuracy by replacing manual testing with automated processes. Key benefits include faster 	execution, repeatability, regression testing, parallel execution, and integration with continuous integration/deployment pipelines.
+	Which Are The Browsers Supported By Selenium Ide?
+->	The Supported Browsers include Mozilla Firefox, Google Chrome
+	among others.
+ 	Selenium WebDriver Allows you to write Test in various Programming
+	Languages.
+
+ 	What are the benefits of Automation Testing?
+->	Ensure Consistency
+	- Saves Time and Cost
+	- Improves accuracy
+	- Human Intervention is not required while execution
+	- Increases Efficiency
+	- Better speed in executing tests
+	- Re-usable test scripts
+	- Test Frequently and thoroughly
+	- More cycle of execution can be achieved through automation
+	- Early time to market
+ 	What are the advantages of Selenium?
+->	Open Source
+	- Language Support
+	- Works Across Multiple OS
+	- Cross Device Testing
+	- Server Starting Not Required
+	- Advanced Browser
+	- Community Support
+
+ 	Why testers should opt for Selenium and not QTP?
+->	Selenium 					QTP
+	Open source, free to use, and free of charge.   Commercial.
+	Highly extensible Limited 			add-ons
+	Can run tests across different browsers 	Can only run tests in Firefox , Internet Explorer and Chrome					
+	Supports various operating systems 		Can only be used in Windows
+	Supports mobile devices 			Supports mobile devise using 3rd party software				
+	Can execute tests while the browser is 		Needs to have the application under test
+	minimized to be visible on the desktop
+	Can execute tests in parallel. 			Can only execute in parallel but using Quality Center which is 
+							again a paid product.
+To validate the Swaglab website Login and logout process page
+https://www.saucedemo.com
